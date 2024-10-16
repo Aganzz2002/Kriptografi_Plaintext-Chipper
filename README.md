@@ -1,7 +1,7 @@
 # Tugas Kriptografi Playfair
 
-## Nama : Yehezkiel Juandro Metta
-## NIM  : 312210376
+## Nama : Moh Jen Rumwokas
+## NIM  : 312210570
 ## Kelas: Ti.22.A5
 
 # Hasil Output
